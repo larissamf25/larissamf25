@@ -1,4 +1,4 @@
-### HOiee, sou a Larissa Menezes
+### Oiee, sou a Larissa Menezes
 
 - 📚 I’m currently learning Web Development
 - 📫 How to reach me: larissamf25@gmail.com
