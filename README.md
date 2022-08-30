@@ -1,9 +1,10 @@
-### Oiee, sou a Larissa Menezes
+### Hi there, I am Larissa Menezes
 
-- :computer: I’m currently learning Web Development
+- :computer: I’m currently learning Web Development at @betrybe
+- 📚 Advanced in English and French, basic in German
 - 📫 How to reach me: larissamf25@gmail.com
 - 😄 Pronouns: She/Her
-- 📚 Advanced in English and French, basic in German
+
 
 <div align="center">
   <a href="https://github.com/larissamf25">
