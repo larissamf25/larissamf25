@@ -1,8 +1,9 @@
 ### Oiee, sou a Larissa Menezes
 
-- 📚 I’m currently learning Web Development
+- :computer: I’m currently learning Web Development
 - 📫 How to reach me: larissamf25@gmail.com
 - 😄 Pronouns: She/Her
+- 📚 Advanced in English and French, basic in German
 
 <div align="center">
   <a href="https://github.com/larissamf25">
