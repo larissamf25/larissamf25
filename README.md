@@ -1,6 +1,6 @@
 ### Hi there, I am Larissa Menezes
 
-- :computer: I’m currently learning Web Development at @betrybe
+- :computer: I’m currently learning Web Development at @betrybe focusing on NodeJS, mySQL and JavaScript
 - 📚 Advanced in English and French, basic in German
 - 📫 How to reach me: larissamf25@gmail.com
 - 😄 Pronouns: She/Her
