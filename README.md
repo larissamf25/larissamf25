@@ -6,7 +6,7 @@ I'm a Brazilian software developer, currently living in Fortaleza. Graduated in 
 - - Main technologies: TypeScript, NodeJS, and mySQL
 - - I'm also used to the agile envirolment;
 - 📚 Advanced in English and French, basic in German
-- 📫 How to reach me: larissamf25@gmail.com
+- 📫 How to reach me: larissamf25@gmail.com or www.linkedin.com/in/larissa-menezes-de-freitas
 
 <div align="center">
   <a href="https://github.com/larissamf25">
