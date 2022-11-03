@@ -1,10 +1,9 @@
 ### Hi there, I am Larissa Menezes
 
-- :computer: I’m currently learning Web Development at @betrybe focusing on NodeJS, mySQL and JavaScript
+- :computer: I’m currently learning Full Stack Web Development at @betrybe
+- - Main technologies: TypeScript, NodeJS, and mySQL
 - 📚 Advanced in English and French, basic in German
 - 📫 How to reach me: larissamf25@gmail.com
-- 😄 Pronouns: She/Her
-
 
 <div align="center">
   <a href="https://github.com/larissamf25">
