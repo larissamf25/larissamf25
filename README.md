@@ -1,7 +1,10 @@
 ### Hi there, I am Larissa Menezes
 
+I'm a Brazilian software developer, currently living in Fortaleza. Graduated in Civil Engineering and automatically kidnapped to the amazing tech world!
+
 - :computer: I’m currently learning Full Stack Web Development at @betrybe
 - - Main technologies: TypeScript, NodeJS, and mySQL
+- - I'm also used to the agile envirolment;
 - 📚 Advanced in English and French, basic in German
 - 📫 How to reach me: larissamf25@gmail.com
 
