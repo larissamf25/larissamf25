@@ -2,9 +2,10 @@
 
 I'm a Brazilian software developer, currently living in Fortaleza. Graduated in Civil Engineering and automatically drawn to the amazing tech world!
 
-- :computer: I’m currently learning Full Stack Web Development at @betrybe
-- - Main technologies: Javascript, Typescript, NodeJS, ReactJS, MySQL and MongoDB
-- - I'm also used to the agile envirolment;
+- :computer:
+  - Main technologies: Javascript, Typescript, NodeJS, ReactJS, MySQL and MongoDB
+  - Currently learning C# and Go
+  - I'm also used to the agile envirolment;
 - 📚 Advanced in English and French, basic in German
 - 📫 How to reach me: larissamf25@gmail.com or www.linkedin.com/in/larissa-menezes-de-freitas
 
